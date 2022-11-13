@@ -1,3 +1,7 @@
+
+//Code is incomplete, working on it
+
+
 const Web3 = require('web3');
 
 class transactionCheck {
